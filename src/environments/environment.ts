@@ -6,13 +6,12 @@ export const environment = {
   production: false,
   url: 'http://localhost:5000/firestore-grafica-62eab/us-central1',
   firebase: {
-    apiKey: 'AIzaSyCLGOT0MU5cgepbSXhB3kx9G5TIO92qnCM',
-    authDomain: 'firestore-grafica-62eab.firebaseapp.com',
-    databaseURL: 'https://firestore-grafica-62eab.firebaseio.com',
-    projectId: 'firestore-grafica-62eab',
-    storageBucket: 'firestore-grafica-62eab.appspot.com',
-    messagingSenderId: '365290155336',
-    appId: '1:365290155336:web:93a69666a7396e9507d77d'
+    apiKey: '<your-key>',
+    authDomain: '<your-project-authdomain>',
+    databaseURL: '<your-database-URL>',
+    projectId: '<your-project-id>',
+    storageBucket: '<your-storage-bucket>',
+    messagingSenderId: '<your-messaging-sender-id>'
   }
 };
 
